@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Backtracking Algorithm. Work in Process
+Backtracking Algorithm
