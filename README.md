@@ -1,3 +1,3 @@
 # Sudoku-Solver
 Backtracking Algorithm
- PGui in process
+ PygGui in process
