@@ -1,4 +1,4 @@
 # Sudoku-Solver
 
-Backtracking Algorithm
+Using Backtracking Algorithm
 
